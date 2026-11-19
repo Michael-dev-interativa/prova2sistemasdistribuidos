@@ -1,5 +1,9 @@
 # prova-pratica-sistemas-distribuidos
 
+**Nome:** Michael Barros de Souza Rocha
+**Professora:** Simone Tatiane do Canto
+**Data:** 18/11/2026
+
 Para alterar o limite de processamento simultâneo eu apenas alterei o valor da linha do código:
 
 MAXIMO_SIMULTANEO = 3
